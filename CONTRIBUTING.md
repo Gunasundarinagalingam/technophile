@@ -11,7 +11,7 @@ If you have never opened a PR and need direction, read more below.
 
 # Contributor's Guide
 
-Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/AshikRoyce/techies/issues).
+Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/AshikRoyce/technophile/issues).
 
 Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
@@ -24,35 +24,35 @@ This guide has been modified from [freeCodeCamp's Contributors Guide](https://gi
 1.  Install [Git](https://git-scm.com/) or your favorite Git client.
 2.  (Optional) [Setup an SSH Key](https://help.github.com/articles/generating-an-ssh-key/) for GitHub.
 
-### Forking Techies
+### Forking technophile
 
-1.  Go to the top level page of this [repository](https://github.com/AshikRoyce/techies)
+1.  Go to the top level page of this [repository](https://github.com/AshikRoyce/technophile)
 2.  Click the "Fork" Button in the upper right hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo/))
-3.  After the repository (repo) has been forked, you will be taken to your copy of the Techies repo at <https://github.com/yourUsername/techies>
+3.  After the repository (repo) has been forked, you will be taken to your copy of the technophile repo at <https://github.com/yourUsername/technophile>
 
 ### Cloning Your Fork
 
 1.  Open a Terminal / Command Line / Bash Shell in your project's directory (_i.e.: `/yourprojectdirectory/`_)
-2.  Clone your fork of `Techies`
+2.  Clone your fork of `technophile`
 
 ```shell
-$ git clone https://github.com/yourUsername/techies.git
+$ git clone https://github.com/yourUsername/technophile.git
 ```
 
 **(make sure to replace `yourUsername` with your GitHub username)**
 
-This will download the entire `Techies` repo to your project's directory.
+This will download the entire `technophile` repo to your project's directory.
 
 ### Setup Your Upstream
 
-1.  Change directory to the new directory (`cd ./techies`)
-2.  Add a remote to the original `Techies` repo:
+1.  Change directory to the new directory (`cd ./technophile`)
+2.  Add a remote to the original `technophile` repo:
 
 ```shell
-$ git remote add upstream https://github.com/AshikRoyce/techies.git
+$ git remote add upstream https://github.com/AshikRoyce/technophile.git
 ```
 
-Congratulations, you now have a local copy of the `Techies` repo!
+Congratulations, you now have a local copy of the `technophile` repo!
 
 ### Maintaining Your Fork
 
@@ -122,11 +122,11 @@ $ git push origin [add/your-name]
 
 #### What is a Pull Request?
 
-A pull request (PR) is a method of submitting your new site to the `Techies` (or any repo, for that matter). You will make changes to copies of the files in a personal fork, then apply to have them accepted by the original repo.
+A pull request (PR) is a method of submitting your new site to the `technophile` (or any repo, for that matter). You will make changes to copies of the files in a personal fork, then apply to have them accepted by the original repo.
 
 #### Need Help?
 
-Feel free to ask for [help](https://github.com/AshikRoyce/techies/issues), we are here to help.
+Feel free to ask for [help](https://github.com/AshikRoyce/technophile/issues), we are here to help.
 
 #### Important: ALWAYS EDIT ON A BRANCH
 
@@ -134,7 +134,7 @@ Take away only one thing from this document: Never, **EVER** make edits to the `
 
 #### Methods
 
-There are two methods of creating a pull request for 'Techies':
+There are two methods of creating a pull request for 'technophile':
 
 - Editing files on a local clone (recommended)
 - Editing files via the GitHub Interface
@@ -178,10 +178,10 @@ As a note, use the presrnt tense for your commit messages (i.e. `Add` instead of
 
 12. Once the edits have been committed, you will be prompted to create a pull request on your fork's GitHub Page.
 
-13. By default, all pull requests should be against the `Techies` main repo, `master` branch.
-    **Make sure that your Base Fork is set to techies/master when raising a Pull Request.**
+13. By default, all pull requests should be against the `technophile` main repo, `master` branch.
+    **Make sure that your Base Fork is set to technophile/master when raising a Pull Request.**
 
-14. Submit a pull request from your branch to `Techies` `master` branch.
+14. Submit a pull request from your branch to `technophile` `master` branch.
 
 15. The title (also called the subject) of your PR should be descriptive of your changes and succinctly indicate what is being fixed.
 
