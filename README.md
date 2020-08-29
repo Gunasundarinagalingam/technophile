@@ -256,7 +256,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.me)
 - [Shaan Khan](https://shaancoding.com)
-- [Shahid Shaikh](http://shahidshaikh.com)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shuvam Manna](http://shuvam.xyz)
 - [Simon Gilbert](https://www.simongilbert.net)
