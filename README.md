@@ -45,8 +45,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Berat Bozkurt](https://beratbozkurt.net/)
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bob Matyas](https://www.bobmatyas.com)
-- [Bouwe Westerdijk](https://bouwe.io)
-- [Brad Garropy](https://bradgarropy.com)
 - [Brianna Roby](http://brianna-roby.com)
 - [Brittany Chiang](https://brittanychiang.com)
 
