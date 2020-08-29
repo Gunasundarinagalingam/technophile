@@ -285,8 +285,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
 - [Victor Aremu](http://bit.ly/victoraremu)
 - [Vincent Milum Jr](http://darkain.com)
-- [Vishwasa Navada K](https://vishwas.tech)
-- [Vidushan Chooriyakumaran](https://vidu.sh/an)
 
 ## W
 
