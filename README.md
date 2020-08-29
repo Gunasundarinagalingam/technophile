@@ -281,8 +281,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## V
 
 - [Vaibhav Singh](http://vaibhavsingh97.com)
-- [Vansh Bhardwaj](http://iamvansh.pythonanywhere.com/)
-- [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
 - [Victor Aremu](http://bit.ly/victoraremu)
