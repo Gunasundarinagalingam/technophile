@@ -292,7 +292,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## W
 
-- [Wajahat Ali Abid](https://wajahataliabid.github.io/)
 
 ## Y
 
