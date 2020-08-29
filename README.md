@@ -13,21 +13,14 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aashutosh Rathi](https://aashutosh.dev)
-
-
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Conrad](http://conradadam.com)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
-
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahsan Khan](https://ahsankhan.me/)
-
-
 - [Alexander Schmidt](https://alexanderschmidt.info/)
-- [Alexey Golub](http://tyrrrz.me)
-- [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Spittel](http://alispit.tel)
 - [Aloys Dillar](https://trolologuy.github.io/)
 - [Aman Mittal](http://amanhimself.dev)
