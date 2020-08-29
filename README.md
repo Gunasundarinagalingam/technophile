@@ -34,9 +34,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Aromal Anil](https://aromalanil.me)
-- [Ashlee Boyer](http://ashleemboyer.dev)
 - [Atanas Atanasov](https://atanas.info)
-- [Azhar Zafar](http://azharr.com)
 
 ## B
 
