@@ -206,17 +206,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## N
 
-- [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
-- [Nesrine Sghaier](https://nesrinesghaier.me)
-- [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nurhak Altın](https://nurhakaltin.com)
 
 ## O
 
-- [Olaolu Olawuyi](https://olaolu.dev)
 - [Omar Gastón Chalas](https://ogaston.com/)
-- [Oguzhan Ince](https://oguz.live)
 - [OOQQ](https://ooqq.me)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
 - [Oscar Tian](http://www.bluexguardian.com)
@@ -225,12 +220,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Patricia Aas](https://patricia.no/)
-- [Patrick Hyatt](https://www.patrickhyatt.com/)
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
 - [Patrick Obermeier](https://www.patrickobermeier.dev/)
-- [Patrick Reid](http://iamreliq.com)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
-- [Praveen Saini](https://praveen-me.github.io)
 - [Priyadharshini Rajaram](https://priya.ws/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
@@ -240,13 +232,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
 - [Rajan Bhattarai](https://cdrrazan.com)
-- [Rick Hanlon](https://rickhanlon.codes)
-- [Rimenes Ribeiro](https://rimenesribeiro.com)
-- [Riley J. Shaw](https://rileyjshaw.com)
 - [Roland L. Taylor](http://rolandixor.pro)
-- [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)
-- [Ryan Burgess](http://ryanburgess.com)
-- [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
 
