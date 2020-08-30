@@ -13,13 +13,16 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aashutosh Rathi](https://aashutosh.dev)
+- [Aakash Gupta](https://aakashgupta-tech.github.io/portfolioAakash/)
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
+- [Abhideep](https://sugan.netlify.app/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Conrad](http://conradadam.com)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahsan Khan](https://ahsankhan.me/)
+- [Ajith US](https://ajithus21.github.io/)
 - [Alexander Schmidt](https://alexanderschmidt.info/)
 - [Ali Spittel](http://alispit.tel)
 - [Aloys Dillar](https://trolologuy.github.io/)
@@ -34,6 +37,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Aromal Anil](https://aromalanil.me)
+- [Arshath](https://arshath.now.sh/)
+- [Ashwin Vinod](https://ashwinvinod16.github.io/)
 - [Atanas Atanasov](https://atanas.info)
 
 ## B
@@ -68,9 +73,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Damian Markowski](http://damianmarkowski.pl)
 - [Daniel Canetti](https://danielcanetti.com/)
 - [Danstan Onyango](https://zemuldo.com/)
+- [David A](https://david-a.netlify.app/)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/me)
+- [Durairaj](https://durairaj-tech.github.io/)
 
 ## E
 
@@ -94,6 +101,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gift Egwuenu](https://giftegwuenu.com)
+- [Govardhan Reddy p](https://govardhan-portfolio.netlify.app/)
+- [Govada Lahari Chandana](https://laharic.netlify.app/)
 
 ## H
 
@@ -120,6 +129,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jesus Rios](https://etxcoding.com/)
 - [Jibin Thomas](http://jibin.tech)
 - [Jim Raptis](http://www.raptis.wtf)
+- [John Francis](https://cpt-john.github.io/)
 - [Jordan Liu](https://jordanxliu.com)
 - [Josef Aidt](https://josefaidt.dev)
 - [Julia Johnson](http://juliacodes.com)
@@ -142,6 +152,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
 - [Luca Lischetti](https://sirlisko.com)
+- [Lohith Kumar](https://lohith-portfolio.netlify.app/)
 - [Long Do](https://longpdo.github.io/)
 - [Luis Cacho](https://luiscachog.io)
 - [Luisa Rojas García](https://luisarojas.com)
@@ -173,7 +184,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## N
 
+- [Narendra](https://narendraportfolio.netlify.app/)
 - [Nicolo Rebughini](https://nirebu.com/)
+- [Niharrika Shree Rao](https://niharrika.netlify.app/)
+- [Nishaanth Vikram](https://nishu2696.github.io/)
 - [Nurhak Altın](https://nurhakaltin.com)
 
 ## O
@@ -190,12 +204,15 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
 - [Patrick Obermeier](https://www.patrickobermeier.dev/)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
+- [praveen kumar](https://praveenz381.github.io/myfirst_portfolio/)
 - [Priyadharshini Rajaram](https://priya.ws/)
+- [Priyadharshini R](https://priyadharshini-27.github.io/Portfolio/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## R
 
 - [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
+- [Rahul Antony P](https://www.antonyrahul.site/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
 - [Rajan Bhattarai](https://cdrrazan.com)
@@ -208,6 +225,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.me)
+- [Shankar Narayanar](https://sshankarnarayanan.netlify.app/)
+- [Schelcia](https://shelcia-portfolio.netlify.app/)
 - [Shuvam Manna](http://shuvam.xyz)
 - [Simon Knott](https://simonknott.de)
 - [Soham Mondal](https://sohammondal.com)
@@ -215,7 +234,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stephen Klop](https://stephenklop.nl)
 - [Subhayu Kr Bala](http://subhayu.me)
+- [Sugan](https://sugan.netlify.app/)
 - [Sulaiman Kareem](https://suleiman94.github.io/)
+- [Suruthi](https://suruthi-vs.github.io/Portfolio_1/)
 - [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
@@ -228,6 +249,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## V
 
 - [Vaibhav Singh](http://vaibhavsingh97.com)
+- [Varghese](https://varghese1987.github.io/)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
 - [Victor Aremu](http://bit.ly/victoraremu)
