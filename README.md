@@ -38,8 +38,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## B
 
-- [Bankole Ahmed](http://bankoleahmed.netlify.com)
-- [Becca Bailey](http://Becca.is)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Benjamin Lannon](https://lannonbr.com)
 - [Berat Bozkurt](https://beratbozkurt.net/)
@@ -55,8 +53,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com/)
-- [Chetan Padia](https://chetbox.com)
-- [Chetan Raj](https://chetanraj.in/)
 - [Chetanya Kandhari](https://availchet.github.io)
 - [Chicago IT Systems](https://www.chicagoitsystems.com/)
 - [Chris Otto](https://chrisotto.dev/)
@@ -73,16 +69,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Canetti](https://danielcanetti.com/)
 - [Danstan Onyango](https://zemuldo.com/)
 - [Davide Santangelo](https://davidesantangelo.com)
-- [Denis Tokarev](https://devlato.com)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/me)
-- [Dimitri Pashutskii](https://dpashutskii.com/)
-- [Drew Bredvick](https://drewb.tech/)
 
 ## E
 
-- [Efrén Martínez Rodríguez](https://sitiopersonal.netlify.app/)
-- [Emily Kondziola](https://emilykondziola.com/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
 - [Ezekiel Ekunola](https://ezekielekunola.com)
@@ -94,13 +85,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Leupold](https://xiel.dev)
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
-- [Flavia Nunes](https://fluvixx.dev/)
-- [Franklin Castellanos](https://onecastell.github.io)
 
 ## G
 
 - [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
-- [Gabriela Radu](http://gabrielaradu.me)
 - [Gabriele Corti](https://borntofrappe.github.io/)
 - [Georgi Yanev](https://gyanev.com)
 - [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
