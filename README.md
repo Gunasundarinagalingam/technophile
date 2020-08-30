@@ -110,9 +110,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 
 - [Hassan Murtaza](https://hassanmurtaza.com)
-- [Herman Starikov](http://starikov.dev)
 - [Hulya Karakaya](https://hulya.netlify.app/)
-- [Hungry Bear Studio](https://www.hungrybearstudio.com/)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 
 ## I
@@ -124,25 +122,18 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## J
 
 - [Jacob Herper](https://herper.io)
-- [Jacob Herrington](http://jh.codes)
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Kirdatt](https://JaiK.me)
 - [Jakub Łukasiewicz](https://joren.ga)
 - [James Turner](http://turnerj.com)
-- [Jamie Hammond](https://jamiehammond.dev/)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
-- [Jane Manchun Wong](http://wongmjane.com)
-- [Janessa Tran](http://janessatran.github.io)
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
-- [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jesus Rios](https://etxcoding.com/)
 - [Jibin Thomas](http://jibin.tech)
 - [Jim Raptis](http://www.raptis.wtf)
-- [Jo Lienhoop](https://jolienhoop.com/)
 - [Jordan Liu](https://jordanxliu.com)
 - [Josef Aidt](https://josefaidt.dev)
-- [Joseph Friedman](http://DecentGradient.com)
 - [Julia Johnson](http://juliacodes.com)
 
 ## K
@@ -151,13 +142,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kamran Hamid](https://mkamranhamid.netlify.com)
 - [Kapil Gorve](http://jskap.com)
 - [Karen Fletcher](https://knpfletcher.dev)
-- [Karthik Menon](https://karthikmenon.me/)
 - [Kenny Tran Co](https://www.kennytran.co)
 - [Kouceyla Hadji](https://www.behance.net/kossa)
 - [Kumar Abhirup](http://kumar.now.sh)
-- [Kyle Harrison](http://kyle.teamharrison.ca)
 - [Kyle Shook](http://Kyleshook.com)
-- [Katheesh](http://katheesh.gitleaf.com) [console](https://katheesh.github.io/console/)
 
 ## L
 
@@ -165,13 +153,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lee Warrick](http://leewarrick.com)
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
-- [Liz Lam](https://lizlam.github.io/)
 - [Luca Lischetti](https://sirlisko.com)
 - [Long Do](https://longpdo.github.io/)
-- [Louay Hamada](https://louayhamada.com)
 - [Luis Cacho](https://luiscachog.io)
 - [Luisa Rojas García](https://luisarojas.com)
-- [Lwin Moe Hein](http://lwinmoehein.me)
 
 ## M
 
